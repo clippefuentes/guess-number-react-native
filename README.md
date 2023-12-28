@@ -2,13 +2,21 @@
 
 A simple React Native app for a number guessing game with multiple screens.
 ### Start Screen
-![Start Screen](https://github.com/clippefuentes/guess-number-react-native/assets/27293814/948b796e-e95e-4510-a323-604e8d86718e)
+<p align="center">
+  <img src="/images/start.png" alt="Screenshot of the first screen." width="250">
+</p>
+
 
 ### Guess Screen
-![Guess Screen](https://github.com/clippefuentes/guess-number-react-native/assets/27293814/b867e74f-6b62-4606-8bf4-92aeb07e35e9)
+<p align="center">
+  <img src="/images/guess_screen.png" alt="Screenshot of the guess screen." width="250">
+</p>
+
 
 ### Game Over Screen
-![Game Over Screen](https://github.com/clippefuentes/guess-number-react-native/assets/27293814/61ed4acc-3a9f-46e3-af85-b1e7a1282885)
+<p align="center">
+  <img src="/images/gameover.png" alt="Screenshot of the game over screen." width="250">
+</p>
 
 
 ## Getting Started
