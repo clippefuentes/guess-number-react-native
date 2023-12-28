@@ -15,7 +15,7 @@ A simple React Native app for a number guessing game with multiple screens.
 
 ### Game Over Screen
 <p align="center">
-  <img src="/images/gameover.png" alt="Screenshot of the game over screen." width="250">
+  <img src="/images/game_over.png" alt="Screenshot of the game over screen." width="250">
 </p>
 
 
